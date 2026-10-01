@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Tote.App/Tote.App.csproj" />
+  <Project Path="Tote.Core/Tote.Core.csproj" />
+  <Project Path="Tote.Tests/Tote.Tests.csproj" />
+</Solution>
